@@ -1,0 +1,11 @@
+As discussed, here is the code test:
+
+The coding exercise can be downloaded from the following link https://flexerasoftware.box.com/s/u6y04hlz17z6qglxa20djl4zw78gib6j
+
+    This test is to assess your ability to write world class production code that would be included in our Flexera products
+    Please write this code to the standard you would expect of a world class product
+    Please write your tests to the level that you would expect to write for production code
+    Please imagine this assignment is a small part of a larger product, and include the degree of OO modelling you would expect to include if this assignment was part of your work at Flexera
+    Please design and write this code to cover the full set of non-functional concerns you would expect from a software product with high quality
+
+Feel free to ignore the AWS architecture question, if you don’t feel up to it.
